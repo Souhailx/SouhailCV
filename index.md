@@ -1,37 +1,60 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<head>
+    <title>CV</title>
+</head>
+<body>
+    <h1>
+        -Curriculum Vitae-
+    </h1>
+    <hr>
+    <p>
+        <br><b>Nom:</b> Laamoumri
+        <br><b>Prenom:</b> Souhail
+        <br><b>Age:</b> 19 ans
+        <br><b>Adresse:</b> Maroc,Rabat,Agdal
+    </p>
+    <h2>
+        <u> <b>Objectif Professionel:</b> </u>
+    </h2>
+    <p>
+        Occuper un poste <i>d'éditeur</i> dans le secteur de <i>jeux videos</i> afin d’accompagner l’entreprise sur la création et développement de ces derniers.
+    </p>
+    <h3>
+        <u><b>Formation et Diplomes:</b></u>
+    </h3>
+    <p>
+        -BAC Science Math B 2019
+        <br>-Classes preparatoires (2019-2021)
+        <br>-Ecole Mohammadia des ingenieurs,Genie Informatique (2021-Présent)
+    </p>
+    <h4>
+        <u><b>Competences Techniques:</b></u>
+    </h4>
+    <p>
+        -Maitrise Language C 
+        <br>-Maitrise Java
+        <br>-Maitrise Python
+        <br>-Maitrise Mathlab
+    </p>
+    <h5>
+        <u><b>Competences Linguistiques:</b></u>    
+    </h5>
+    <p>
+        -Arabe (Maternelle)
+        <br>-Français (Courante)
+        <br>-Anglais (courante)
+    </p>
+    <h6>
+        <u><b>Autres:</b></u>    
+    </h6>
+    <p>
+        -Enthousiaste de sport
+        <br>-Passioné de photographie 
+    </p>
+    <footer>
+        Edité par: LAAMOUMRI Souhail
+        <br>Dernière mise a jour: 27/10/2021
+    </footer>
 
-You can use the [editor on GitHub](https://github.com/Souhailx/SouhailCV/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Souhailx/SouhailCV/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</body>
+</html>
